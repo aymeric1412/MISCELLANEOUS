@@ -1,0 +1,20 @@
+id,type,severite,longueur_m,ouverture_mm,chainage_debut_m,chainage_fin_m,offset_m,incertitude,commentaire
+L01,longitudinale,F,12.00,,0.00,12.00,0.25,non,Fissure de rive gauche - observation lisible sur le carnet.
+L02,longitudinale,M,14.00,,12.00,26.00,0.25,oui,"Transition de sévérité estimée depuis plan flou, à confirmer."
+L03,longitudinale,E,21.00,,26.00,47.00,0.25,oui,Fissure de rive gauche aggravée avec désaffleurements signalés (zone étoile).
+L04,longitudinale,F,18.00,,0.00,18.00,5.55,non,Fissure de rive droite continue.
+L05,longitudinale,M,17.00,,18.00,35.00,5.55,oui,Sévérité moyenne sur la rive droite (lecture floue).
+L06,longitudinale,E,12.00,,35.00,47.00,5.55,oui,"Segment aval très ouvert, corroboré par mention d'affaissement."
+L07,longitudinale,E,12.10,,18.00,30.10,2.90,oui,"Ruban 12,1 m x 0,50 m identifié comme fissure majeure (note terrain)."
+L08,longitudinale,M,25.60,,5.00,30.60,3.30,oui,"Trace longitudinale 25,6 m x 0,25 m (sévérité M/F)."
+L09,longitudinale,F,10.00,,32.00,42.00,1.20,oui,"Note ""5,5"" interprétée comme légère ouverture (à confirmer)."
+L10,longitudinale,M,12.60,,8.00,20.60,4.10,oui,Annotation illisible (probable fissure/patch).
+L11,longitudinale,F,11.10,,21.90,33.00,1.50,oui,"Note ""3,0"" interprétée comme ouverture modérée."
+T01,transversale,F,5.80,,4.00,4.00,0.00,non,Chaînage mesuré.
+T02,transversale,M,5.80,,9.00,9.00,0.00,oui,Chaînage relevé sur plan flou; vérifier sur site.
+T03,transversale,F,5.80,,15.00,15.00,0.00,oui,Chaînage relevé sur plan flou; vérifier sur site.
+T04,transversale,M,5.80,,21.00,21.00,0.00,oui,Chaînage relevé sur plan flou; vérifier sur site.
+T05,transversale,E,5.80,,27.50,27.50,0.00,oui,Chaînage relevé sur plan flou; vérifier sur site.
+T06,transversale,F,5.80,,33.00,33.00,0.00,oui,Chaînage relevé sur plan flou; vérifier sur site.
+T07,transversale,M,5.80,,40.00,40.00,0.00,oui,Chaînage relevé sur plan flou; vérifier sur site.
+T08,transversale,E,5.80,,45.00,45.00,0.00,oui,Chaînage relevé sur plan flou; vérifier sur site.
