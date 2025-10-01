@@ -1,0 +1,31 @@
+id,type,severite,longueur_m,ouverture_mm,chainage_debut_m,chainage_fin_m,offset_m,incertitude,commentaire
+L01,longitudinale,F,12.00,,0.00,12.00,0.25,non,Fissure de rive gauche - observation lisible sur le carnet.
+L02,longitudinale,M,14.00,,12.00,26.00,0.25,oui,"Transition de sévérité estimée depuis plan flou, à confirmer."
+L03,longitudinale,E,21.00,,26.00,47.00,0.25,oui,Fissure de rive gauche aggravée avec désaffleurements signalés (zone étoile).
+L04,longitudinale,F,18.00,,0.00,18.00,5.55,non,Fissure de rive droite continue.
+L05,longitudinale,M,17.00,,18.00,35.00,5.55,oui,Sévérité moyenne sur la rive droite (lecture floue).
+L06,longitudinale,E,12.00,,35.00,47.00,5.55,oui,"Segment aval très ouvert, corroboré par mention d'affaissement."
+L07,longitudinale,E,12.10,,18.00,30.10,2.90,oui,"Ruban 12,1 m x 0,50 m identifié comme fissure majeure (note terrain)."
+L08,longitudinale,M,25.60,,5.00,30.60,3.30,oui,"Trace longitudinale 25,6 m x 0,25 m (sévérité M/F)."
+L09,longitudinale,F,10.00,,32.00,42.00,1.20,oui,"Note ""5,5"" interprétée comme légère ouverture (à confirmer)."
+L10,longitudinale,M,12.60,,8.00,20.60,4.10,oui,Annotation illisible (probable fissure/patch).
+L11,longitudinale,F,11.10,,21.90,33.00,1.50,oui,"Note ""3,0"" interprétée comme ouverture modérée."
+T01,transversale,F,5.80,,2.00,2.00,0.00,oui,Coupure transversale interpolée depuis le croquis flou.
+T02,transversale,F,5.80,,4.00,4.00,0.00,non,Chaînage mesuré clairement sur le carnet terrain.
+T03,transversale,M,5.80,,6.00,6.00,0.00,oui,Rupture transversale probable entre stations 4 et 9 m.
+T04,transversale,F,5.80,,7.50,7.50,0.00,oui,Ligne transversale faiblement ouverte.
+T05,transversale,M,5.80,,9.00,9.00,0.00,non,Fracture transversale confirmée par annotation manuscrite.
+T06,transversale,F,5.80,,10.50,10.50,0.00,oui,Suture transversale légère observée (à confirmer).
+T07,transversale,M,5.80,,12.00,12.00,0.00,oui,Ouverture modérée en rive médiane.
+T08,transversale,F,5.80,,13.50,13.50,0.00,oui,Coupure ponctuelle relevée sur photo.
+T09,transversale,E,5.80,,15.00,15.00,0.00,non,Fracture majeure en relation avec l'affaissement local.
+T10,transversale,F,5.80,,17.00,17.00,0.00,oui,Suture transversale fine (lecture à confirmer).
+T11,transversale,M,5.80,,19.00,19.00,0.00,oui,Ouverture moyenne relevée lors du chaînage.
+T12,transversale,F,5.80,,21.00,21.00,0.00,oui,Relevé flou nécessitant vérification terrain.
+T13,transversale,M,5.80,,23.00,23.00,0.00,oui,Segment modérément ouvert adjacent à zone de craquelage.
+T14,transversale,E,5.80,,24.50,24.50,0.00,oui,Rupture associée à l'étoile d'affaissement signalée.
+T15,transversale,F,5.80,,27.50,27.50,0.00,non,Tronçon transversale confirmée lors du relevé principal.
+T16,transversale,M,5.80,,29.50,29.50,0.00,oui,Fissure moyenne au centre de la chaussée.
+T17,transversale,F,5.80,,31.50,31.50,0.00,oui,Coupure fine se prolongeant vers la rive droite.
+T18,transversale,M,5.80,,33.00,33.00,0.00,non,Rupture marquée sur la photographie corrigée.
+T19,transversale,E,5.80,,45.00,45.00,0.00,non,Ouverture majeure en aval nécessitant intervention prioritaire.

@@ -1,0 +1,44 @@
+{
+  "site": "10e Rue E – Tronçon 47 m",
+  "zones": [
+    {
+      "id": "Z01",
+      "type_zone": "craquelage",
+      "longueur_m": 10.36,
+      "largeur_m": 2.9,
+      "surface_m2": 30.043999999999997,
+      "chainage_debut_m": 6.0,
+      "chainage_fin_m": 16.36,
+      "cote": "gauche",
+      "severite": "M",
+      "incertitude": false,
+      "commentaire": "Craquelage demi-voie noté dans carnet."
+    },
+    {
+      "id": "Z02",
+      "type_zone": "affaissement",
+      "longueur_m": 4.8,
+      "largeur_m": 5.8,
+      "surface_m2": 27.84,
+      "chainage_debut_m": 19.0,
+      "chainage_fin_m": 23.8,
+      "cote": "centre",
+      "severite": "E",
+      "incertitude": true,
+      "commentaire": "Dimension 4,8 m x 6,3? m interprétée comme affaissement pleine largeur."
+    },
+    {
+      "id": "Z03",
+      "type_zone": "rapiecage",
+      "longueur_m": 12.1,
+      "largeur_m": 0.5,
+      "surface_m2": 6.05,
+      "chainage_debut_m": 30.0,
+      "chainage_fin_m": 42.1,
+      "cote": "centre",
+      "severite": "E",
+      "incertitude": true,
+      "commentaire": "Ruban 12,1 m x 0,50 m supposé rapiéçage longitudinal."
+    }
+  ]
+}
