@@ -1,0 +1,272 @@
+{
+  "site": "10e Rue E – Tronçon 47 m",
+  "ecart_type_mm_assume": null,
+  "fissures": [
+    {
+      "id": "L01",
+      "type": "longitudinale",
+      "severite": "F",
+      "longueur_m": 12.0,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 0.0,
+        "a": 12.0
+      },
+      "offset_m": 0.25,
+      "incertitude": false,
+      "commentaire": "Fissure de rive gauche - observation lisible sur le carnet."
+    },
+    {
+      "id": "L02",
+      "type": "longitudinale",
+      "severite": "M",
+      "longueur_m": 14.0,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 12.0,
+        "a": 26.0
+      },
+      "offset_m": 0.25,
+      "incertitude": true,
+      "commentaire": "Transition de sévérité estimée depuis plan flou, à confirmer."
+    },
+    {
+      "id": "L03",
+      "type": "longitudinale",
+      "severite": "E",
+      "longueur_m": 21.0,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 26.0,
+        "a": 47.0
+      },
+      "offset_m": 0.25,
+      "incertitude": true,
+      "commentaire": "Fissure de rive gauche aggravée avec désaffleurements signalés (zone étoile)."
+    },
+    {
+      "id": "L04",
+      "type": "longitudinale",
+      "severite": "F",
+      "longueur_m": 18.0,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 0.0,
+        "a": 18.0
+      },
+      "offset_m": 5.55,
+      "incertitude": false,
+      "commentaire": "Fissure de rive droite continue."
+    },
+    {
+      "id": "L05",
+      "type": "longitudinale",
+      "severite": "M",
+      "longueur_m": 17.0,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 18.0,
+        "a": 35.0
+      },
+      "offset_m": 5.55,
+      "incertitude": true,
+      "commentaire": "Sévérité moyenne sur la rive droite (lecture floue)."
+    },
+    {
+      "id": "L06",
+      "type": "longitudinale",
+      "severite": "E",
+      "longueur_m": 12.0,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 35.0,
+        "a": 47.0
+      },
+      "offset_m": 5.55,
+      "incertitude": true,
+      "commentaire": "Segment aval très ouvert, corroboré par mention d'affaissement."
+    },
+    {
+      "id": "L07",
+      "type": "longitudinale",
+      "severite": "E",
+      "longueur_m": 12.1,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 18.0,
+        "a": 30.1
+      },
+      "offset_m": 2.9,
+      "incertitude": true,
+      "commentaire": "Ruban 12,1 m x 0,50 m identifié comme fissure majeure (note terrain)."
+    },
+    {
+      "id": "L08",
+      "type": "longitudinale",
+      "severite": "M",
+      "longueur_m": 25.6,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 5.0,
+        "a": 30.6
+      },
+      "offset_m": 3.3,
+      "incertitude": true,
+      "commentaire": "Trace longitudinale 25,6 m x 0,25 m (sévérité M/F)."
+    },
+    {
+      "id": "L09",
+      "type": "longitudinale",
+      "severite": "F",
+      "longueur_m": 10.0,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 32.0,
+        "a": 42.0
+      },
+      "offset_m": 1.2,
+      "incertitude": true,
+      "commentaire": "Note \"5,5\" interprétée comme légère ouverture (à confirmer)."
+    },
+    {
+      "id": "L10",
+      "type": "longitudinale",
+      "severite": "M",
+      "longueur_m": 12.6,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 8.0,
+        "a": 20.6
+      },
+      "offset_m": 4.1,
+      "incertitude": true,
+      "commentaire": "Annotation illisible (probable fissure/patch)."
+    },
+    {
+      "id": "L11",
+      "type": "longitudinale",
+      "severite": "F",
+      "longueur_m": 11.1,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 21.9,
+        "a": 33.0
+      },
+      "offset_m": 1.5,
+      "incertitude": true,
+      "commentaire": "Note \"3,0\" interprétée comme ouverture modérée."
+    },
+    {
+      "id": "T01",
+      "type": "transversale",
+      "severite": "F",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 4.0,
+        "a": 4.0
+      },
+      "offset_m": 0.0,
+      "incertitude": false,
+      "commentaire": "Chaînage mesuré."
+    },
+    {
+      "id": "T02",
+      "type": "transversale",
+      "severite": "M",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 9.0,
+        "a": 9.0
+      },
+      "offset_m": 0.0,
+      "incertitude": true,
+      "commentaire": "Chaînage relevé sur plan flou; vérifier sur site."
+    },
+    {
+      "id": "T03",
+      "type": "transversale",
+      "severite": "F",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 15.0,
+        "a": 15.0
+      },
+      "offset_m": 0.0,
+      "incertitude": true,
+      "commentaire": "Chaînage relevé sur plan flou; vérifier sur site."
+    },
+    {
+      "id": "T04",
+      "type": "transversale",
+      "severite": "M",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 21.0,
+        "a": 21.0
+      },
+      "offset_m": 0.0,
+      "incertitude": true,
+      "commentaire": "Chaînage relevé sur plan flou; vérifier sur site."
+    },
+    {
+      "id": "T05",
+      "type": "transversale",
+      "severite": "E",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 27.5,
+        "a": 27.5
+      },
+      "offset_m": 0.0,
+      "incertitude": true,
+      "commentaire": "Chaînage relevé sur plan flou; vérifier sur site."
+    },
+    {
+      "id": "T06",
+      "type": "transversale",
+      "severite": "F",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 33.0,
+        "a": 33.0
+      },
+      "offset_m": 0.0,
+      "incertitude": true,
+      "commentaire": "Chaînage relevé sur plan flou; vérifier sur site."
+    },
+    {
+      "id": "T07",
+      "type": "transversale",
+      "severite": "M",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 40.0,
+        "a": 40.0
+      },
+      "offset_m": 0.0,
+      "incertitude": true,
+      "commentaire": "Chaînage relevé sur plan flou; vérifier sur site."
+    },
+    {
+      "id": "T08",
+      "type": "transversale",
+      "severite": "E",
+      "longueur_m": 5.8,
+      "ouverture_mm": null,
+      "chainage": {
+        "de": 45.0,
+        "a": 45.0
+      },
+      "offset_m": 0.0,
+      "incertitude": true,
+      "commentaire": "Chaînage relevé sur plan flou; vérifier sur site."
+    }
+  ]
+}
