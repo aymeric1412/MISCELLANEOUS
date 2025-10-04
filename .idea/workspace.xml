@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07908210-4ed9-4bd3-acd9-dba07d190a2e" name="Changes" comment="" />
+    <list default="true" id="07908210-4ed9-4bd3-acd9-dba07d190a2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUDOKU_TKINTER/basic_sudoku_tkinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/SUDOKU_TKINTER/basic_sudoku_tkinter.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.basic_sudoku_tkinter.executor&quot;: &quot;Run&quot;,
     &quot;Python.compteur_avant_decollage.executor&quot;: &quot;Run&quot;,
     &quot;Python.gen_plan.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -67,6 +71,8 @@
       <workItem from="1759151296924" duration="20000" />
       <workItem from="1759284592761" duration="662000" />
       <workItem from="1759408453719" duration="27000" />
+      <workItem from="1759469061555" duration="67000" />
+      <workItem from="1759494390743" duration="87000" />
     </task>
     <servers />
   </component>
@@ -76,5 +82,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MISCELLANEOUS$compteur_avant_decollage.coverage" NAME="compteur_avant_decollage Coverage Results" MODIFIED="1759149280220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MISCELLANEOUS$gen_plan.coverage" NAME="gen_plan Coverage Results" MODIFIED="1759284713761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/outputs" />
+    <SUITE FILE_PATH="coverage/MISCELLANEOUS$basic_sudoku_tkinter.coverage" NAME="basic_sudoku_tkinter Coverage Results" MODIFIED="1759494468130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SUDOKU_TKINTER" />
   </component>
 </project>

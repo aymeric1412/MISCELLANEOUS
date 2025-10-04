@@ -33,7 +33,7 @@ def afficher_sudoku():
     for r in range(9):  # boucle sur chaque ligne
         for c in range(9):  # boucle sur chaque colonne
             valeur = sudoku[r][c]  # obtient la valeur de chaque case
-            case = tk.Entry(cadre_jeu, width=3, font=('Arial', 18), justify='center')  # crée une case de saisie
+            case = tk.Entry(cadre_jeu, width=3, font=('Arial', 20), justify='center')  # crée une case de saisie
             case.grid(row=r, column=c, padx=2, pady=2)  # place la case dans la grille
             case.bind("<KeyRelease>", valider_saisie)  # associe la validation des entrées à chaque saisie
             if valeur != 0:  # si la valeur n'est pas 0 (case pré-remplie)
